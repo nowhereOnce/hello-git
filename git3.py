@@ -1,1 +1,1 @@
-print("tercer archivo modificado conflicto")
+print("tercer archivo")
